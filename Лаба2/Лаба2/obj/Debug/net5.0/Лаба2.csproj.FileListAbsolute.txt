@@ -1,0 +1,16 @@
+E:\Третий курс\Первый семак\ТиОПО\Лаба2\Лаба2\bin\Debug\net5.0\Лаба2.exe
+E:\Третий курс\Первый семак\ТиОПО\Лаба2\Лаба2\bin\Debug\net5.0\Лаба2.deps.json
+E:\Третий курс\Первый семак\ТиОПО\Лаба2\Лаба2\bin\Debug\net5.0\Лаба2.runtimeconfig.json
+E:\Третий курс\Первый семак\ТиОПО\Лаба2\Лаба2\bin\Debug\net5.0\Лаба2.runtimeconfig.dev.json
+E:\Третий курс\Первый семак\ТиОПО\Лаба2\Лаба2\bin\Debug\net5.0\Лаба2.dll
+E:\Третий курс\Первый семак\ТиОПО\Лаба2\Лаба2\bin\Debug\net5.0\Лаба2.pdb
+E:\Третий курс\Первый семак\ТиОПО\Лаба2\Лаба2\obj\Debug\net5.0\Лаба2.csproj.AssemblyReference.cache
+E:\Третий курс\Первый семак\ТиОПО\Лаба2\Лаба2\obj\Debug\net5.0\Лаба2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Третий курс\Первый семак\ТиОПО\Лаба2\Лаба2\obj\Debug\net5.0\Лаба2.AssemblyInfoInputs.cache
+E:\Третий курс\Первый семак\ТиОПО\Лаба2\Лаба2\obj\Debug\net5.0\Лаба2.AssemblyInfo.cs
+E:\Третий курс\Первый семак\ТиОПО\Лаба2\Лаба2\obj\Debug\net5.0\Лаба2.csproj.CoreCompileInputs.cache
+E:\Третий курс\Первый семак\ТиОПО\Лаба2\Лаба2\obj\Debug\net5.0\Лаба2.dll
+E:\Третий курс\Первый семак\ТиОПО\Лаба2\Лаба2\obj\Debug\net5.0\refint\Лаба2.dll
+E:\Третий курс\Первый семак\ТиОПО\Лаба2\Лаба2\obj\Debug\net5.0\Лаба2.pdb
+E:\Третий курс\Первый семак\ТиОПО\Лаба2\Лаба2\obj\Debug\net5.0\Лаба2.genruntimeconfig.cache
+E:\Третий курс\Первый семак\ТиОПО\Лаба2\Лаба2\obj\Debug\net5.0\ref\Лаба2.dll
