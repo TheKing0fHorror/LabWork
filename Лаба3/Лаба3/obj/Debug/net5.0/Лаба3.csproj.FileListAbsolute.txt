@@ -1,0 +1,16 @@
+E:\Третий курс\Первый семак\ТиОПО\Лаба3\Лаба3\bin\Debug\net5.0\Лаба3.exe
+E:\Третий курс\Первый семак\ТиОПО\Лаба3\Лаба3\bin\Debug\net5.0\Лаба3.deps.json
+E:\Третий курс\Первый семак\ТиОПО\Лаба3\Лаба3\bin\Debug\net5.0\Лаба3.runtimeconfig.json
+E:\Третий курс\Первый семак\ТиОПО\Лаба3\Лаба3\bin\Debug\net5.0\Лаба3.runtimeconfig.dev.json
+E:\Третий курс\Первый семак\ТиОПО\Лаба3\Лаба3\bin\Debug\net5.0\Лаба3.dll
+E:\Третий курс\Первый семак\ТиОПО\Лаба3\Лаба3\bin\Debug\net5.0\Лаба3.pdb
+E:\Третий курс\Первый семак\ТиОПО\Лаба3\Лаба3\obj\Debug\net5.0\Лаба3.csproj.AssemblyReference.cache
+E:\Третий курс\Первый семак\ТиОПО\Лаба3\Лаба3\obj\Debug\net5.0\Лаба3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Третий курс\Первый семак\ТиОПО\Лаба3\Лаба3\obj\Debug\net5.0\Лаба3.AssemblyInfoInputs.cache
+E:\Третий курс\Первый семак\ТиОПО\Лаба3\Лаба3\obj\Debug\net5.0\Лаба3.AssemblyInfo.cs
+E:\Третий курс\Первый семак\ТиОПО\Лаба3\Лаба3\obj\Debug\net5.0\Лаба3.csproj.CoreCompileInputs.cache
+E:\Третий курс\Первый семак\ТиОПО\Лаба3\Лаба3\obj\Debug\net5.0\Лаба3.dll
+E:\Третий курс\Первый семак\ТиОПО\Лаба3\Лаба3\obj\Debug\net5.0\refint\Лаба3.dll
+E:\Третий курс\Первый семак\ТиОПО\Лаба3\Лаба3\obj\Debug\net5.0\Лаба3.pdb
+E:\Третий курс\Первый семак\ТиОПО\Лаба3\Лаба3\obj\Debug\net5.0\Лаба3.genruntimeconfig.cache
+E:\Третий курс\Первый семак\ТиОПО\Лаба3\Лаба3\obj\Debug\net5.0\ref\Лаба3.dll
