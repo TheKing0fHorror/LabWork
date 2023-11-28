@@ -1,0 +1,15 @@
+E:\Третий курс\Первый семак\ТиОПО\Лаба4\Лаба4\bin\Debug\net6.0\Лаба4.exe
+E:\Третий курс\Первый семак\ТиОПО\Лаба4\Лаба4\bin\Debug\net6.0\Лаба4.deps.json
+E:\Третий курс\Первый семак\ТиОПО\Лаба4\Лаба4\bin\Debug\net6.0\Лаба4.runtimeconfig.json
+E:\Третий курс\Первый семак\ТиОПО\Лаба4\Лаба4\bin\Debug\net6.0\Лаба4.dll
+E:\Третий курс\Первый семак\ТиОПО\Лаба4\Лаба4\bin\Debug\net6.0\Лаба4.pdb
+E:\Третий курс\Первый семак\ТиОПО\Лаба4\Лаба4\obj\Debug\net6.0\Лаба4.csproj.AssemblyReference.cache
+E:\Третий курс\Первый семак\ТиОПО\Лаба4\Лаба4\obj\Debug\net6.0\Лаба4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Третий курс\Первый семак\ТиОПО\Лаба4\Лаба4\obj\Debug\net6.0\Лаба4.AssemblyInfoInputs.cache
+E:\Третий курс\Первый семак\ТиОПО\Лаба4\Лаба4\obj\Debug\net6.0\Лаба4.AssemblyInfo.cs
+E:\Третий курс\Первый семак\ТиОПО\Лаба4\Лаба4\obj\Debug\net6.0\Лаба4.csproj.CoreCompileInputs.cache
+E:\Третий курс\Первый семак\ТиОПО\Лаба4\Лаба4\obj\Debug\net6.0\Лаба4.dll
+E:\Третий курс\Первый семак\ТиОПО\Лаба4\Лаба4\obj\Debug\net6.0\refint\Лаба4.dll
+E:\Третий курс\Первый семак\ТиОПО\Лаба4\Лаба4\obj\Debug\net6.0\Лаба4.pdb
+E:\Третий курс\Первый семак\ТиОПО\Лаба4\Лаба4\obj\Debug\net6.0\Лаба4.genruntimeconfig.cache
+E:\Третий курс\Первый семак\ТиОПО\Лаба4\Лаба4\obj\Debug\net6.0\ref\Лаба4.dll
