@@ -95,40 +95,76 @@ namespace Лаба4
                 Console.ForegroundColor = ConsoleColor.DarkRed;
                 Console.WriteLine(ex.Message);
                 Console.ForegroundColor = ConsoleColor.White;
-                Error error = new Error();
-                error.LogJournal(ex);
+
+                ILog logJour = new LogTXT();
+                logJour.LogJournal(ex);
+
+                logJour = new LogXML();
+                logJour.LogJournal(ex);
+
+                logJour = new LogJSON();
+                logJour.LogJournal(ex);
+
             }
             catch (CoefficientAZero ex)
             {
                 Console.ForegroundColor = ConsoleColor.DarkRed;
                 Console.WriteLine(ex.Message);
                 Console.ForegroundColor = ConsoleColor.White;
-                Error error = new Error();
-                error.LogJournal(ex);
+
+                ILog logJour = new LogTXT();
+                logJour.LogJournal(ex);
+
+                logJour = new LogXML();
+                logJour.LogJournal(ex);
+
+                logJour = new LogJSON();
+                logJour.LogJournal(ex);
             }
             catch (DiscriminantZero ex)
             {
                 Console.ForegroundColor = ConsoleColor.DarkRed;
                 Console.WriteLine(ex.Message);
                 Console.ForegroundColor = ConsoleColor.White;
-                Error error = new Error();
-                error.LogJournal(ex);
+
+                ILog logJour = new LogTXT();
+                logJour.LogJournal(ex);
+
+                logJour = new LogXML();
+                logJour.LogJournal(ex);
+
+                logJour = new LogJSON();
+                logJour.LogJournal(ex);
             }
             catch (FileNotFoundException ex)
             {
                 Console.ForegroundColor = ConsoleColor.DarkRed;
                 Console.WriteLine(ex.Message);
                 Console.ForegroundColor = ConsoleColor.White;
-                Error error = new Error();
-                error.LogJournal(ex);
+
+                ILog logJour = new LogTXT();
+                logJour.LogJournal(ex);
+
+                logJour = new LogXML();
+                logJour.LogJournal(ex);
+
+                logJour = new LogJSON();
+                logJour.LogJournal(ex);
             }
             catch (Exception ex)
             {
                 Console.ForegroundColor = ConsoleColor.DarkRed;
                 Console.WriteLine(ex.Message);
                 Console.ForegroundColor = ConsoleColor.White;
-                Error error = new Error();
-                error.LogJournal(ex);
+
+                ILog logJour = new LogTXT();
+                logJour.LogJournal(ex);
+
+                logJour = new LogXML();
+                logJour.LogJournal(ex);
+
+                logJour = new LogJSON();
+                logJour.LogJournal(ex);
             }
         }
 
